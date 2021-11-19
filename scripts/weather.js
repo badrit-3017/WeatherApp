@@ -7,7 +7,7 @@ the UI.
 */ 
 
 //Variables are declared here
-const key ="b8fb0ac8b1ad48cf876163601210110";
+const key ="yourkeyhere";
 const details = document.querySelector('.details');
 const form = document.querySelector('form');
 const body = document.querySelector('body');
